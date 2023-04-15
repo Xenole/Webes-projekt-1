@@ -1,0 +1,49 @@
+html { 
+    background: url('https://static.vecteezy.com/system/resources/previews/007/115/713/original/the-old-vintage-black-brick-wall-background-with-lighting-decoration-and-dark-tone-style-for-background-design-concept-free-photo.jpg'); 
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+h2, h2 {
+    display: inline;
+}
+
+h1{
+    margin-bottom: 50px;
+}
+
+#your-score {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 100px;
+    line-height: 40px;
+    font-size: larger;
+}
+
+#computer-score {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 100px;
+    line-height: 40px;
+    font-size: larger;
+}
+
+#result {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 60px;
+    font-size: larger;
+}
+
+#choices {
+    object-fit: cover;
+    margin: 0 70px;
+    margin-top: 40px;
+    padding: 0px; 
+}
+
+#choices:hover {
+    cursor: pointer;
+}
+
